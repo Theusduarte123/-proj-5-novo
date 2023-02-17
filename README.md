@@ -1,12 +1,12 @@
 
-# 👉🏻 Utilização Frontend
+# 🏻 Utilização Frontend
 
 <p style="font-size: 15px">É possível você utilizar o  projeto seguindos estes passos:</p>
 <p style="font-size: 15px">Utilize o Git Clone no repositório em uma pasta de sua escolha</p>
 
 
 ```
-$ git clone https://github.com/amandaafreitas/projeto-grupo-modulo05.git
+$ git clone https://github.com/Theusduarte123/-proj-5-novo.git
 ```
 
 
@@ -28,7 +28,7 @@ $ npm install
 $ npm run dev
 
 ```
-# 👉🏻 Utilização Backend
+# 🏻 Utilização Backend
 
 <p style="font-size: 15px">Execute o comando  cd backend para entrar no projeto.</p>
 
